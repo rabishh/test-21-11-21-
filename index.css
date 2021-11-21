@@ -16,6 +16,7 @@ a{
 input{
     width:40%;
     height:30px;
+    margin-top:20px;
 }
 button{
     width:100px;
